@@ -21,7 +21,7 @@ A análise explora padrões de desempenho **geral e regional**, incluindo fatura
 ---
 
 ### 🔹 1. Visão Geral de Vendas  
-![Visão Geral](https://raw.githubusercontent.com/marcosengdados/ProjetoTableau/main/images/visao_geral.png)
+![Visão Geral](https://raw.githubusercontent.com/marcosengdados/ProjetoTableau/main/images/visao_geral.png](https://github.com/marcosengdados/ProjetoTableau/blob/main/Vis%C3%A3o%20Geral%20de%20Vendas) 
 
 Painel executivo com os principais indicadores de desempenho, permitindo uma leitura rápida do cenário global de vendas.
 
