@@ -28,49 +28,49 @@ Painel executivo com os principais indicadores de desempenho, permitindo uma lei
 ---
 
 ### 🔹 2. Análise Temporal (Sazonalidade)  
-![Sazonalidade](https://raw.githubusercontent.com/marcosengdados/ProjetoTableau/main/images/sazonalidade.png)
+![Sazonalidade](https://github.com/marcosengdados/ProjetoTableau/blob/main/An%C3%A1lise%20Temporal%20(Sazonalidade))
 
 Evolução das vendas ao longo do tempo, destacando tendências, picos e variações sazonais.
 
 ---
 
 ### 🔹 3. Performance por Região  
-![Região](https://raw.githubusercontent.com/marcosengdados/ProjetoTableau/main/images/regiao.png)
+![Região](https://github.com/marcosengdados/ProjetoTableau/blob/main/Performance%20por%20Regi%C3%A3o)
 
 Comparação entre regiões, evidenciando diferenças de faturamento e oportunidades estratégicas.
 
 ---
 
 ### 🔹 4. Análise por Categoria de Produto  
-![Categoria](https://raw.githubusercontent.com/marcosengdados/ProjetoTableau/main/images/categoria.png)
+![Categoria](https://github.com/marcosengdados/ProjetoTableau/blob/main/An%C3%A1lise%20por%20Categoria%20de%20Produto)
 
 Avaliação das categorias com maior impacto no faturamento e margem.
 
 ---
 
 ### 🔹 5. Relação Lucro vs Receita  
-![Lucro vs Receita](https://raw.githubusercontent.com/marcosengdados/ProjetoTableau/main/images/lucro_receita.png)
+![Lucro vs Receita](https://github.com/marcosengdados/ProjetoTableau/blob/main/Rela%C3%A7%C3%A3o%20Lucro%20vs%20Receita)
 
 Análise da eficiência operacional, mostrando que alto volume nem sempre representa maior lucratividade.
 
 ---
 
 ### 🔹 6. Segmentação de Clientes  
-![Clientes](https://raw.githubusercontent.com/marcosengdados/ProjetoTableau/main/images/clientes.png)
+![Clientes](https://github.com/marcosengdados/ProjetoTableau/blob/main/Segmenta%C3%A7%C3%A3o%20de%20Clientes)
 
 Identificação de padrões de comportamento e contribuição de diferentes perfis de clientes.
 
 ---
 
 ### 🔹 7. Análise Geográfica  
-![Mapa](https://raw.githubusercontent.com/marcosengdados/ProjetoTableau/main/images/mapa.png)
+![Mapa](https://github.com/marcosengdados/ProjetoTableau/blob/main/An%C3%A1lise%20Geogr%C3%A1fica)
 
 Distribuição espacial das vendas, facilitando a visualização de regiões estratégicas.
 
 ---
 
 ### 🔹 8. Indicadores de Performance (KPIs)  
-![KPIs](https://raw.githubusercontent.com/marcosengdados/ProjetoTableau/main/images/kpis.png)
+![KPIs](https://github.com/marcosengdados/ProjetoTableau/blob/main/Indicadores%20de%20Performance%20(KPIs))
 
 Painel consolidado com métricas-chave para tomada de decisão rápida.
 
